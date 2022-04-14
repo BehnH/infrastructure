@@ -1,4 +1,4 @@
-# Ansible playbooks/Puppet stuff for my infrastructure
+# Ansible playbooks/Terraform stuff for my infrastructure
 
 ## Requirements
 - Ansible
